@@ -23,6 +23,8 @@ I am currently an undergraduate student at Purdue University studying computer s
   <img src="https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png" width="50" height="50" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" alt="LaTeX"/>
   <img src="https://user-images.githubusercontent.com/11978772/40430921-73d53922-5e63-11e8-8dcd-1662136c3212.png" width="50" height="50" alt="MongoDB"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" height="50" alt="MongoDB"/>
+
 
 </p>
 
