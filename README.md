@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=156099&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=156099&width=435&lines=Hi%2C+I'm+Ryan+Peters;A+Computer+Science+Student;At+Purdue+University" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=156099&width=435&lines=Hi%2C+I'm+Ryan+Peters;A+Computer+Science+Student;At+Purdue+University" alt="Computer Scientist"/>
 </a>
 
 
@@ -14,10 +14,11 @@ I’m driven by a love for problem-solving and technology. My mission is to tack
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 
-<a href="" download>Download my resume</a>
+### Learn More About Me
+<a href="https://www.linkedin.com/in/ryan-flynn-peters/">
+        <img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" alt="LinkedIn" width="108" height="45"/>
+</a>
+
+<a href="https://drive.google.com/drive/folders/1zrCRYvKSLKPk-g2gCMr0Fnkw7NHyUF21?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=156099&height=120&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
