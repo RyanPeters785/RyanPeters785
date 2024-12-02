@@ -5,14 +5,26 @@
 </a>
 
 
-### My mission
-I’m driven by a love for problem-solving and technology. My mission is to tackle real-world challenges that make a meaningful difference. I thrive in collaborative environments, believing that the best solutions come from diverse ideas and teamwork. As a leader, I’m passionate about empowering others, fostering innovation, and creating a positive impact together.
+### About Me
+I am currently an undergraduate student at Purdue University studying computer science and data science. I’m driven by a love for problem-solving and technology. My mission is to tackle real-world challenges that make a meaningful difference. I thrive in collaborative environments, believing that the best solutions come from diverse ideas and teamwork. As a leader, I’m passionate about empowering others, fostering innovation, and creating a positive impact together.
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,github,git,mongodb,mysql,regex,nodejs,react,notion)](https://skillicons.dev)
+### Languages and Tools:</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Assembly (Linux)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" width="50" height="50" alt="Qiskit"/>
+  <img src="https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png" width="50" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" alt="LaTeX"/>
+  <img src="https://user-images.githubusercontent.com/11978772/40430921-73d53922-5e63-11e8-8dcd-1662136c3212.png" width="50" height="50" alt="MongoDB"/>
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+</p>
 
 ### Learn More About Me
 <a href="https://www.linkedin.com/in/ryan-flynn-peters/">
